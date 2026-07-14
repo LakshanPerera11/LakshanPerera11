@@ -17,7 +17,7 @@
 
 <img align="right" alt="coding" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🎓 IT Undergraduate specialized in **Software Engineering**
+- 🎓 IT Undergraduate specialized in **Information Technology**
 - 💻 Passionate about **Frontend Development** and **MERN Stack**
 - 🚀 Currently working on **EduShare** and **SafeGo**
 - 📊 Interested in **analytics dashboards** and modern interfaces
